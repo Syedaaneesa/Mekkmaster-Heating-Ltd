@@ -75,7 +75,7 @@ Custom sections and thoughtfully arranged content contribute to better user inte
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)
 **Role:** Wix Developer / Designer
@@ -83,6 +83,6 @@ Custom sections and thoughtfully arranged content contribute to better user inte
 
 ---
 
-### ⭐ If you like this project, consider giving it a star
+###  If you like this project, consider giving it a star
 
 https://github.com/Syedaaneesa/Mekkmaster-Heating
