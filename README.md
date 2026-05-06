@@ -50,13 +50,13 @@ Custom sections and thoughtfully arranged content contribute to better user inte
 
 ---
 
-## 📸 Project Gallery
+##  Project Gallery
 
 ![Mekkmaster Heating Screenshot 1](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/Home-My-Site-1-05-06-2026_12_25_AM.png)
 
 ---
 
-## 🚀 Deployment & Maintenance
+##  Deployment & Maintenance
 
 * Hosted on secure **Wix infrastructure** for reliable performance
 * SSL encryption ensures safe and secure browsing
@@ -66,7 +66,7 @@ Custom sections and thoughtfully arranged content contribute to better user inte
 
 ---
 
-## 📚 Learnings & Takeaways
+##  Learnings & Takeaways
 
 * Developed a fully customized Wix Studio website tailored to a service-based business
 * Strengthened skills in responsive layout design and structured content presentation
