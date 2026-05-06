@@ -10,7 +10,7 @@ Live Website: https://www.mekkmasterheatingltd.com/
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 * Fully responsive design ensuring seamless performance across desktop, tablet, and mobile devices
 * Optimized page speed for fast loading and improved user experience
@@ -22,7 +22,7 @@ Custom sections and thoughtfully arranged content contribute to better user inte
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 * **Wix CMS**
 * **Wix Studio Editor & Velo**
@@ -32,7 +32,7 @@ Custom sections and thoughtfully arranged content contribute to better user inte
 
 ---
 
-## 🎨 Design Process & Efforts
+##  Design Process & Efforts
 
 * **Theme Customization** – Adapted and customized the Wix Studio layout to align with the client’s branding, ensuring a professional appearance, consistent design language, and improved visual hierarchy throughout the website.
 
