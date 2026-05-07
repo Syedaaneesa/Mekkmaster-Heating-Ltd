@@ -78,7 +78,9 @@ Custom sections and thoughtfully arranged content contribute to better user inte
 ##  Developer
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)
+
 **Role:** Wix Developer / Designer
+
 **Project Type:** Client-based live website project
 
 ---
