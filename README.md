@@ -8,11 +8,15 @@ Live Website : https://mekkmaster.co.uk/
 
 ##  Project Overview
 
-* Fully responsive design ensuring seamless performance across desktop, tablet, and mobile devices
-* Optimized page speed for fast loading and improved user experience
-* SEO-friendly structure to enhance visibility on search engines
-* Clean, modern, and service-focused interface for easy navigation
-* Well-organized content structure to clearly present services and company information
+* Fully Responsive Design – Optimized for desktop, tablet, and mobile devices to ensure a smooth and consistent user experience across all screen sizes.
+
+* Optimized Page Speed – Built with performance optimization techniques for faster loading times and a better browsing experience.
+  
+* SEO-Friendly Structure – Designed with a search-engine-friendly layout to improve online visibility and reach potential customers effectively.
+  
+* Clean & Modern Interface – Features a professional, user-friendly design with simple navigation and a modern visual appearance.
+  
+* Well-Organized Content Layout – Structured content presentation that clearly highlights services and company information for better readability.
 
 Custom sections and thoughtfully arranged content contribute to better user interaction and help establish a professional brand image.
 
