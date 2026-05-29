@@ -52,11 +52,11 @@ Custom sections and thoughtfully arranged content contribute to better user inte
 
 ##  Project Gallery
 
-![Mekkmaster Heating Screenshot 1](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/Home-My-Site-1-05-06-2026_12_25_AM.png)
-![Mekkmaster Heating Screenshot 2](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/screencapture-aliimran27-wixstudio-my-site-1-services-2026-05-06-16_30_53.png)
-![Mekkmaster Heating Screenshot 3](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/screencapture-aliimran27-wixstudio-my-site-1-blank-2026-05-06-16_31_17.png)
-![Mekkmaster Heating Screenshot 4](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/screencapture-aliimran27-wixstudio-my-site-1-about-us-2026-05-06-16_31_37.png)
-![MekkmasterHeating Screenshot 5](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/screencapture-aliimran27-wixstudio-my-site-1-contact-2026-05-06-16_31_55.png)
+![Mekkmaster Heating Screenshot 1](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/Home.png)
+![Mekkmaster Heating Screenshot 2](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/Services.png)
+![Mekkmaster Heating Screenshot 3](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/Industries.png)
+![Mekkmaster Heating Screenshot 4](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/About.png)
+![MekkmasterHeating Screenshot 5](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/Contact.png)
 
 ---
 
