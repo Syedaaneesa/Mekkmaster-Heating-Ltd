@@ -1,6 +1,6 @@
 # Mekkmaster Heating Ltd – Professional Wix Website Development
 
-Designed in Wix for Mekkmaster Heating Ltd, this website delivers a clean, modern, and professional online presence that builds trust and credibility. Featuring a fully responsive design, intuitive navigation, and a user-friendly layout, the site effectively highlights the company’s heating and plumbing services, including installations, maintenance, and repairs. By providing a seamless browsing experience across all devices, the website enhances customer engagement, showcases the company’s expertise, and supports business growth by making it easier for potential clients to learn about services and get in touch.
+Designed in Wix for Mekkmaster Heating Ltd, this modern, fully responsive website showcases the company’s heating and plumbing services with a clean, professional design. Featuring intuitive navigation, a user-friendly layout, and seamless performance across all devices, the website builds trust, enhances customer engagement, and makes it easy for potential clients to explore services and get in touch.
 
 ---
 
