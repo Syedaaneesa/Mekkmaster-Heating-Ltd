@@ -2,11 +2,11 @@
 
 Designed in Wix for Mekkmaster Heating Ltd, this modern, fully responsive website showcases the company’s heating and plumbing services with a clean, professional design. Featuring intuitive navigation, a user-friendly layout, and seamless performance across all devices, the website builds trust, enhances customer engagement, and makes it easy for potential clients to explore services and get in touch.
 
----
+
 
 Live Website Link: [https://www.mekkmaster.co.uk/](https://www.mekkmaster.co.uk/)
 
----
+
 
 ##  Project Overview
 
@@ -19,7 +19,7 @@ Live Website Link: [https://www.mekkmaster.co.uk/](https://www.mekkmaster.co.uk/
 Custom sections and strategically structured content enhance user engagement while reinforcing a professional and trustworthy brand presence.
 
 
----
+
 
 ##  Tools & Technologies Used
 
@@ -29,7 +29,7 @@ Custom sections and strategically structured content enhance user engagement whi
 * **Responsive Design Controls**
 * **SSL Security Integration**
 
----
+
 
 ##  Design Process & Efforts
 
@@ -47,7 +47,7 @@ Custom sections and strategically structured content enhance user engagement whi
 
 * **Testing & Responsiveness** – Conducted cross-device testing to ensure consistent functionality, layout responsiveness, and smooth user experience across all screen sizes.
 
----
+
 
 ##  Project Gallery
 
@@ -57,7 +57,7 @@ Custom sections and strategically structured content enhance user engagement whi
 ![Mekkmaster Heating Screenshot 4](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/About.png)
 ![MekkmasterHeating Screenshot 5](https://github.com/Syedaaneesa/Mekkmaster-Heating-Ltd/blob/main/Contact.png)
 
----
+
 
 ##  Deployment & Maintenance
 
@@ -67,7 +67,7 @@ Custom sections and strategically structured content enhance user engagement whi
 * Regular updates and maintenance ensure stability and security
 * Backup systems in place for data protection and recovery
 
----
+
 
 ##  Learnings & Takeaways
 
@@ -76,7 +76,7 @@ Custom sections and strategically structured content enhance user engagement whi
 * Applied SEO techniques within Wix to improve discoverability and rankings
 * Enhanced performance through media optimization and efficient page structuring
 
----
+
 
 ##  Developer
 
@@ -86,7 +86,7 @@ Custom sections and strategically structured content enhance user engagement whi
 
 **Project Type:** Client-based live website project
 
----
+
 
 ###  If you like this project, consider giving it a star
 
